@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Faysal Ahmed.</h1>
+<h1 align="center">Hi! I'm Faysal Ahmed.</h1>
 <h3 align="center">I'm passionate in Competitive Programming and love to learn new technologies.</h3>
 <img align = "right" alt = "Coding" width = "360" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
