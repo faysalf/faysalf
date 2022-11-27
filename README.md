@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Faysal Ahmed.</h1>
 <h3 align="center">Passionate in Competitive Programming and love to learn new technologies.</h3>
-<img align = "right" alt = "Coding" width = "360" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align = "right" alt = "Coding" width = "360" height = "200" src = "https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faysalf&label=Profile%20views&color=0e75b6&style=flat" alt="faysalf" /> </p>
 
