@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faysalf&label=Profile%20views&color=0e75b6&style=flat" alt="faysalf" /> </p>
 
-- 🔭 I’m currently working with **iOS Development (Swift 5)**
+- 🔭 I’m currently working for **iOS Development (Swift 5)**
 
 - 👨‍💻 You can visit me here also [www.faysalf.cf](www.faysalf.cf)
 
