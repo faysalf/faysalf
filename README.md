@@ -1,5 +1,5 @@
 <h1 align="center">Hello! This is Faysal Ahmed here.</h1>
-<h3 align="center">A competitive Programmer and passionate in iOS Development.</h3>
+<h3 align="center">A competitive Programmer and passionate iOS Developer.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faysalf&label=Profile%20views&color=0e75b6&style=flat" alt="faysalf" /> </p>
