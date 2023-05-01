@@ -3,8 +3,8 @@
 
 <p align="justify"> ☕️ Industrial experiences / Skills:<br>
   <B>🔨𝐅𝗿𝗮𝗺𝘄𝗼𝗿𝗸/𝗟𝗶𝗯𝗿𝗮𝗿𝘆(𝗦𝘄𝗶𝗳𝘁):</B> UIKit   •   SwiftUI (minor)   •   Auto Layout   •   Auto Resize   •   Vision(for OCR)   •   Speech 
-Recognizer  •  Image Processing  •   Alamofire  •   CoreData   •   WebKit   •   PDFKit   •   Document Directory   •   AVFoundation  •   Foundation  •  
-RESTful API  •  AVKit •  MapKit <br>
+Recognizer  •  Image Processing  •   Alamofire  •   CoreData   •   WebKit   •   PDFKit  •  AVKit •  MapKit   •   Document Directory   •   AVFoundation  •   Foundation  •  
+RESTful API <br>
   
   🔨<b>Others:</b> Git  •  Github  •  MVC  •  MVVM  •  Sublime Text  •  Slack (Conversational)  •  Jira  •  JSON <br>
   
