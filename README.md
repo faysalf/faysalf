@@ -1,5 +1,5 @@
 <h3 align="left">Hello 👋</h3>
-<p align="justify">This is Faysal Ahmed here, above 1 year of professional iOS Development experience with Swift and SwiftUI. I have worked on several major projects, including Live Wallpaper, Storage Cleaner, AI Chat, AI Art and Gif Maker. Currently, I am working on a restaurant booking-based iOS application for Reserveit BD. I would also like to mention my previous company where I received strong guidance from highly experienced senior iOS Developers in writing readable, maintainable, and clean code.</p>
+<p align="justify">This is Faysal Ahmed here, above 1 year of professional iOS Development experience with Swift and SwiftUI. I have worked on several major projects. Currently, I am working on a restaurant booking-based iOS application for Reserveit BD. I would also like to mention my previous company where I received strong guidance from highly experienced senior iOS Developers in writing readable, maintainable, and clean code.</p>
 
 <p align="justify"> ☕️ Industrial experiences / Skills:<br>
   <B>🔨𝐅𝗿𝗮𝗺𝘄𝗼𝗿𝗸/𝗟𝗶𝗯𝗿𝗮𝗿𝘆(𝗦𝘄𝗶𝗳𝘁):</B> UIKit   •   SwiftUI   •   Auto Layout   •   Auto Resize   •   Vision(for OCR)   •   Speech 
