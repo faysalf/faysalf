@@ -15,10 +15,10 @@ RESTful API <br>
   </p><br>
 
 <p align="justify">
-<b> <a href="https://codeforces.com/profile/faysalf">Codeforces</a> &nbsp; • &nbsp;
-  <a href="https://www.codechef.com/users/faysalf">Codechef</a> &nbsp; • &nbsp;
+<b> <a href="https://www.codechef.com/users/faysalf">Codechef</a> &nbsp; • &nbsp;
   <a href="https://vjudge.net/user/faysalf">VJudge</a> &nbsp; • &nbsp;
   <a href="https://www.hackerrank.com/mdfaysalahmedf">HackerRank</a> &nbsp; • &nbsp;
+   <a href="https://codeforces.com/profile/faysalf">Codeforces</a> &nbsp; • &nbsp;
   <a href="https://www.beecrowd.com.br/judge/en/profile/459713">URI</a> &nbsp; • &nbsp;
   <a href="https://dimikoj.com/users/241/mdfaysalahmedf">DimikOJ</a> &nbsp;
   </b> </p>
