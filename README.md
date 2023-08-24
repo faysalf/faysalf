@@ -3,8 +3,7 @@
 
 <p align="justify"> ☕️ Industrial experiences / Skills:<br>
   <B>🔨𝐅𝗿𝗮𝗺𝘄𝗼𝗿𝗸/𝗟𝗶𝗯𝗿𝗮𝗿𝘆(𝗦𝘄𝗶𝗳𝘁):</B> Swift  •  UIKit   •   SwiftUI   •   Auto Layout   •   Auto Resize   •   Vision(OCR)   •   Speech 
-Recognizer  •  Image Processing  •   Alamofire  •   CoreData   •   WebKit   •   PDFKit  •  AVKit •  MapKit   •   Document Directory   •   AVFoundation  •   Foundation  •  Core Graphics  •  Core Animation  •  Firebase Push Notification  •  Google Places
-RESTful API <br>
+Recognizer  •  Image Processing  •   Alamofire  •   CoreData   •   WebKit   •   PDFKit  •  AVKit •  MapKit   •   Document Directory   •   AVFoundation  •   Foundation  •  Core Graphics  •  Core Animation  •  Firebase Push Notification  •  Google Places  •   RESTful API <br>
   
   🔨<b>Others:</b> Git  •  Github  •  MVC  •  MVVM  •  Sublime Text  •  Slack (Conversational)  •  Jira  •  JSON <br>
   
