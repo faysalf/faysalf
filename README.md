@@ -1,14 +1,14 @@
 <h3 align="left">Hello 👋</h3>
-<p align="justify">This is Faysal Ahmed here, with more than 1.5 years professional iOS Development experience with Swift and SwiftUI. I have worked on several major projects from scratch to production. Currently, I am working in a restaurants/Resourts booking-based iOS application for Reserveit BD.</p>
+<p align="justify">I'm Faysal Ahmed, an iOS Developer with over 1.5 years hands-on experience in Swift and SwiftUI. Throughout my 1.5 years journey, I've been deeply involved in crafting several native iOS applications, taking them from scratch to production. Currently, I am working in a restaurants/Resourts booking-based iOS application for Reserveit BD. This project has provided me with valuable insights and practical experience in delivering user-centric solutions.</p>
 
-<p align="justify"> ☕️ Industrial experiences / Skills:<br>
+<p align="justify"> ☕️ My industrial experiences / Skills:<br>
   <B>🔨𝐅𝗿𝗮𝗺𝘄𝗼𝗿𝗸/𝗟𝗶𝗯𝗿𝗮𝗿𝘆(𝗦𝘄𝗶𝗳𝘁):</B> Swift  •  UIKit   •   SwiftUI   •   Auto Layout   •   Auto Resize   •   Vision(OCR)   •   Speech 
-Recognizer  •  Image Processing  •   Alamofire  •   CoreData   •   Realm   •   WebKit   •   PDFKit  •  AVKit •  MapKit   •   Document Directory   •   Multithreading   •   Singletoon   •   AVFoundation  •   Foundation  •  Core Graphics  •  Core Animation  •  Push Notification  •  Google Places Autocomplete  •   RESTful API   •   Problem-Solving <br>
+Recognizer  •  Image Processing  •   Alamofire  •   CoreData   •   Realm   •   WebKit   •   PDFKit  •  AVKit •  MapKit   •   Document Directory   •   Multithreading   •   Singletoon   •   AVFoundation  •  Core Graphics  •  Core Animation  •  Push Notification  •  CocoaPods  •   Cocoa Touch  •   RESTful API   •   Problem-Solving <br>
   
   🔨<b>Others:</b> Git  •  Github  •  MVC  •  MVVM  •  JSON <br>
   
   ☕️Non-Industrial experiences / Skills:<br>
-  ⚒️<b>Languages:</b> C  •  C++  •  Python. <br>
+  ⚒️<b>Languages:</b> Swift  •  C++  •  Python. <br>
   ⚒️<b>Others:</b> Data Structure  •  Algorithms  •  OOP  •  Graph Algorithms  •  Programming Training
 
   </p><br>
