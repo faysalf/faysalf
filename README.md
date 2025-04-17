@@ -1,15 +1,14 @@
-<h3 align="left">Hello 👋</h3>
-<p align="justify">I'm Faysal Ahmed, an iOS Developer with over 2 years hands-on experience in Swift and SwiftUI. Throughout my 2 years journey, I've been deeply involved in crafting several native iOS applications, taking them from scratch to production. Currently, I am working in a restaurants/Resourts booking-based iOS application for Reserveit BD. This project has provided me with valuable insights and practical experience in delivering user-centric solutions.</p>
+<h3 align="left">Hi 👋</h3>
+<p align="justify">I'm Faysal Ahmed, an iOS Developer with 3 years of experience in Swift, UIKit, SwiftUI, and Combine. Throughout my 3 years journey, I've been deeply involved in crafting several iOS applications, taking them from scratch to production. Currently, I am working for Vector360 where I’ve developed several iOS applications like Reserveit (booking platform), FaceClass (remote class attendence system in Korea), and Priyojon (providing caregiver service). These projects have provided me with valuable insights and practical experience in delivering user-centric solutions.</p>
 
 <p align="justify"> ☕️ My industrial experiences / Skills:<br>
-  <B>🔨𝐅𝗿𝗮𝗺𝘄𝗼𝗿𝗸/𝗟𝗶𝗯𝗿𝗮𝗿𝘆(𝗦𝘄𝗶𝗳𝘁):</B> Swift  •  UIKit   •   SwiftUI   •   Auto Layout   •   Auto Resize   •   Vision(OCR)   •   Speech 
-Recognizer  •  Image Processing  •   Alamofire  •   CoreData   •   Realm   •   WebKit   •   PDFKit  •  AVKit •  MapKit   •   Document Directory   •   Multithreading   •   Singletoon   •   AVFoundation  •  Core Graphics  •  Core Animation  •  Push Notification  •  CocoaPods  •   Cocoa Touch  •   RESTful API   •   Problem-Solving <br>
+  <B>🔨𝐅𝗿𝗮𝗺𝘄𝗼𝗿𝗸s & 𝗟𝗶𝗯𝗿𝗮𝗿ies:</B> Swift  •  UIKit   •   SwiftUI   •   Combine   •   Auto Layout   •   Auto Resize   •   AVFoundation  •  Core Graphics  •  Core Animation  •   Core Data   •   Realm DB  •   Cocoa Touch  •   REST API   •   Alamofire   •   Vision (OCR)   •   Concurrency   •   Singletoon  •  WebKit  •  MapKit   •   Push Notification  •  SPM   •   Problem-Solving <br>
   
   🔨<b>Others:</b> Git  •  Github  •  MVC  •  MVVM  •  JSON <br>
   
   ☕️Non-Industrial experiences / Skills:<br>
   ⚒️<b>Languages:</b> Swift  •  C++  •  Python. <br>
-  ⚒️<b>Others:</b> Data Structure  •  Algorithms  •  OOP  •  Graph Algorithms  •  Programming Training
+  ⚒️<b>Others:</b> Data Structure  •  Algorithms  •  OOP  •  Programming Training
 
   </p><br>
 
