@@ -1,14 +1,18 @@
 <h3 align="left">Hi 👋</h3>
-<p align="justify">I'm Faysal Ahmed, an iOS Developer with 3 years of experience in Swift, UIKit, SwiftUI, and Combine. Throughout my 3 years journey, I've been deeply involved in crafting several iOS applications, taking them from scratch to production. Currently, I am working for Vector360 where I’ve developed several iOS applications like Reserveit (booking platform), FaceClass (remote class attendence system in Korea), and Priyojon (providing caregiver service). These projects have provided me with valuable insights and practical experience in delivering user-centric solutions.</p>
+<p align="justify">I'm Faysal Ahmed, an iOS Developer with 3 years of experience in Swift, UIKit, SwiftUI, and Combine. Throughout my 3 years journey, I've been deeply involved in crafting several iOS applications, taking them from scratch to production. Currently, I am working for Vector360 where I’ve developed several iOS applications like Reserveit (booking platform), and FaceClass (remote class attendence system in Korea). These projects have provided me with valuable insights and practical experience in delivering user-centric solutions.</p>
 
-<p align="justify"> ☕️ My industrial experiences / Skills:<br>
-  <B>🔨𝐅𝗿𝗮𝗺𝘄𝗼𝗿𝗸s & 𝗟𝗶𝗯𝗿𝗮𝗿ies:</B> Swift  •  UIKit   •   SwiftUI   •   Combine   •   Auto Layout   •   Auto Resize   •   AVFoundation  •  Core Graphics  •  Core Animation  •   Core Data   •   Realm DB  •   Cocoa Touch  •   REST API   •   Alamofire   •   Vision (OCR)   •   Concurrency   •   Singletoon  •  WebKit  •  MapKit   •   Push Notification  •  SPM   •   Problem-Solving <br>
+<p align="justify"> 🚀 Technical Skills:<br>
+  <B>🔨𝐅𝗿𝗮𝗺𝘄𝗼𝗿𝗸s & 𝗟𝗶𝗯𝗿𝗮𝗿ies:</B> Swift  •  UIKit   •   SwiftUI   •   Combine   •   Auto Layout   •   Auto Resize   •   AVFoundation  •  Core Graphics  •  Core Animation  •   Core Data   •   Realm DB  •   CocoaTouch  •   REST APIs   •   Alamofire   •   Vision (OCR, ML)   •   Firebase   •   Concurrency  •  UI/Unit Testing (XCTest)  •  WebKit  •  MapKit   •   Google Maps   •   CoreML   •   CreateML   •   Push Notification   •   Problem-Solving <br>
+
+  🔨<b>Tools:</b> Git  •  Bitrise (CI/CD)  •  Jira  •  Scrum Methodologies.
   
-  🔨<b>Others:</b> Git  •  Github  •  MVC  •  MVVM  •  JSON <br>
+  🔨<b>Architecture:</b> MVC  •  MVVM <br>
   
-  ☕️Non-Industrial experiences / Skills:<br>
-  ⚒️<b>Languages:</b> Swift  •  C++  •  Python. <br>
-  ⚒️<b>Others:</b> Data Structure  •  Algorithms  •  OOP  •  Programming Training
+  🔨<b>Others:</b> AppStore Deployment <br>
+  
+  🚀 Non-Industrial Skills:<br>
+  ⚒️ <b>Languages:</b> Swift  •  C++  •  Python. <br>
+  ⚒️ <b>Others:</b> Data Structure  •  Algorithms  •  OOP  •  Programming Training
 
   </p><br>
 
