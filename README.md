@@ -1,12 +1,14 @@
 <h3 align="left">Hi 👋</h3>
-<p align="justify">I'm Faysal Ahmed, an iOS Developer with 3 years of experience in Swift, UIKit, SwiftUI, and Combine. Throughout my 3 years journey, I've been deeply involved in crafting several iOS applications, taking them from scratch to production. Currently, I am working for Vector360 where I’ve developed several iOS applications like Reserveit (booking platform), and FaceClass (remote class attendence system in Korea). These projects have provided me with valuable insights and practical experience in delivering user-centric solutions.</p>
+<p align="justify">I'm Faysal Ahmed, an iOS Developer from Dhaka, with 4 years of experience working with Swift, UIKit, Storyboard, SwiftUI, and Combine.
+<br>Throughout my career, I've been deeply involved in building and developing iOS applications, taking projects from scratch to AppStore deployment. I enjoy solving complex problems, building clean and maintainable code, and creating smoother user experiences.
+<br>Currently, I'm working at CreateDevs LLC, contributing to both client and in-house projects. Previously, I worked with Vector360, Reserveit BD, and a confidential team, where I developed and shipped several iOS applications from the ground up to the AppStore.</p>
 
 <p align="justify"> 🚀 Technical Skills:<br>
   <B>🔨𝐅𝗿𝗮𝗺𝘄𝗼𝗿𝗸s & 𝗟𝗶𝗯𝗿𝗮𝗿ies:</B> Swift  •  UIKit   •   SwiftUI   •   Combine   •   Auto Layout   •   Auto Resize   •   AVFoundation  •  Core Graphics  •  Core Animation  •   Core Data   •   Realm DB  •   CocoaTouch  •   REST APIs   •   Alamofire   •   Vision (OCR, ML)   •   Firebase   •   Concurrency  •  UI/Unit Testing (XCTest)  •  WebKit  •  MapKit   •   Google Maps   •   CoreML   •   CreateML   •   Push Notification   •   Problem-Solving <br>
 
-  🔨<b>Tools:</b> Git  •  Bitrise (CI/CD)  •  Jira  •  Scrum Methodologies.
+  🔨<b>Tools:</b> Git  •  Bitrise (CI/CD)  •  Jira  •  Both Agile and Scrum Methodologies.
   
-  🔨<b>Architecture:</b> MVC  •  MVVM <br>
+  🔨<b>Architecture:</b> MVC  •  MVVM-C <br>
   
   🔨<b>Others:</b> AppStore Deployment <br>
   
